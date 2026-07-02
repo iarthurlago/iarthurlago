@@ -83,6 +83,4 @@
  </tr>
 </table>
 
-<div align-center>
-  <a align-center><img src="https://raw.githubusercontent.com/iarthurlago/iarthurlago/output/snake.svg" alt="Snake animation" /></a>
-</div>
+
