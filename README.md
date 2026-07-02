@@ -70,7 +70,7 @@
       <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Linux" />
+       <img src="https://raw.githubusercontent.com/iarthurlago/iarthurlago/output/snake.svg" alt="Snake animation" />
       <br>VisualStudio
     </td>
      </tr>
