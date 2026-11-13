@@ -1,86 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-## My favorite tools and technologies ⚙️
+# Ivan Arthur
 
-> Tools and technologies that I have worked with and am interested in
+**Desenvolvimento web e aplicações em C#**<br>
+Estudante de Engenharia de Software · React · TypeScript · .NET
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" width="65" height="65" alt="GitHub" />
-      <br>NodeJS
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-     </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Git" />
-      <br>React
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Linux" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Linux" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/iarthurlago/iarthurlago/output/snake.svg" alt="Snake animation" />
-      <br>VisualStudio
-    </td>
-     </tr>
- <tr>
- </tr>
-</table>
-   
-  </tr>
- <tr>
- </tr>
-</table>
+[LinkedIn](https://www.linkedin.com/in/iarthurlago-23b7603a1) · [E-mail](mailto:iarthur.almeida@gmail.com) · [Projetos](https://github.com/iarthurlago?tab=repositories)
 
+</div>
 
+---
+
+## Sobre mim
+
+Sou Ivan Arthur, estudante de **Engenharia de Software na Uninter** e técnico em **Desenvolvimento de Sistemas pelo SESI-SENAI**. Tenho interesse em desenvolvimento web e análise de sistemas, e aprofundo minha formação no programa **Jovem Tech, da Inovase**, com estudos em TI e empreendedorismo.
+
+Meus projetos exploram interfaces web com React e TypeScript, aplicações desktop com C# e persistência de dados. Busco conectar o que estudo à construção de soluções práticas, com atenção à organização do código, à usabilidade e à evolução de cada projeto.
+
+## Projetos em destaque
+
+### [Margen Joias](https://github.com/iarthurlago/margen-joias-landing)
+Vitrine digital de joias com catálogo, páginas de detalhes, galeria de imagens e consulta de peças pelo WhatsApp. O projeto reúne layout responsivo, recursos de acessibilidade, imagens otimizadas e geração de HTML no build.
+
+**React · TypeScript · Vite · CSS Modules**
+
+### [Sistema de Gestão de Locações](https://github.com/iarthurlago/ProjetoLocacao-WinFormCsharp)
+Aplicação desktop para cadastro de clientes e itens, registro de locações e cálculo de diárias. Organizada em camadas, com persistência em SQLite, autenticação e controle de acesso por papéis.
+
+**C# · .NET · Windows Forms · SQLite · BCrypt**
+
+### [Portfólio pessoal](https://github.com/iarthurlago/Port-1)
+Apresentação de projetos, habilidades, formação e contato em uma interface responsiva. Inclui alternância entre português e inglês e organização da interface em componentes.
+
+**React · JavaScript · Vite · i18next · CSS**
+
+[Explorar todos os repositórios →](https://github.com/iarthurlago?tab=repositories)
+
+## Tecnologias e ferramentas
+
+Minha experiência prática e meus estudos passam pelas seguintes áreas:
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Interfaces web** | React, JavaScript, TypeScript, HTML e CSS |
+| **Aplicações e serviços** | C#, .NET, Windows Forms, ASP.NET, Node.js e APIs REST |
+| **Dados** | SQL, SQLite, PostgreSQL e Supabase |
+| **Outras linguagens de interesse** | Python |
+| **Desenvolvimento** | Git, GitHub, Visual Studio Code e Visual Studio |
+
+Os projetos acima mostram aplicações concretas de parte dessa stack; as demais tecnologias também fazem parte dos meus estudos e interesses.
+
+## Formação
+
+- **Engenharia de Software — Uninter** · Em andamento.
+- **Técnico em Desenvolvimento de Sistemas — SESI-SENAI** · Concluído.
+- **Programa Jovem Tech — Inovase** · Em andamento, com foco em TI e empreendedorismo.
+
+## Contato
+
+Para conversar sobre projetos, colaboração ou oportunidades em desenvolvimento de software:
+
+**[LinkedIn](https://www.linkedin.com/in/iarthurlago-23b7603a1)** · **[iarthur.almeida@gmail.com](mailto:iarthur.almeida@gmail.com)**
