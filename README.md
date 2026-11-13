@@ -54,7 +54,7 @@ Os projetos acima mostram aplicações concretas de parte dessa stack; as demais
 
 - **Engenharia de Software — Uninter** · Em andamento.
 - **Técnico em Desenvolvimento de Sistemas — SESI-SENAI** · Concluído.
-- **Programa Jovem Tech — Inovase** · Em andamento, com foco em TI e empreendedorismo.
+- **Programa Jovem Tech — Inovase** · Concluído.
 
 ## Contato
 
